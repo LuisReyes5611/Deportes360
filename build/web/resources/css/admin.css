@@ -26,6 +26,12 @@ body {
   font-weight: 600;
   text-transform: uppercase;
   border-bottom: 3px solid #d40000;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Que esté encima del resto */
 }
 
 /* -----------------------
@@ -36,10 +42,11 @@ body {
   width: 210px;
   height: 100vh;
   position: fixed;
-  top: 75px;
+  top: 75px; /* Altura del header */
   left: 0;
   padding-top: 20px;
   box-shadow: 4px 0 12px rgba(0,0,0,0.25);
+  overflow-y: auto; /* Para que se pueda scrollear si hay muchos items */
 }
 
 .sidebar ul {
@@ -71,8 +78,10 @@ body {
    DASHBOARD
 ------------------------*/
 .dashboard {
-  margin-left: 230px;
+  margin-left: 230px; /* espacio para el sidebar */
   padding: 25px;
+  padding-top: 120px; /* espacio para el header fijo */
+  min-height: 100vh; /* Que ocupe toda la altura visible */
 }
 
 /* -----------------------
@@ -201,7 +210,6 @@ body {
 /* ---------------------------
    GESTIÓN DE USUARIOS
 --------------------------- */
-
 .usuarios {
   margin: 24px 20px;
   background: #ffffff;
@@ -215,7 +223,7 @@ body {
   margin-bottom: 15px;
 }
 
-/* Tabla */
+/* Tabla usuarios */
 .tabla-usuarios {
   width: 100%;
   border-collapse: collapse;
@@ -258,10 +266,11 @@ body {
   transform: scale(1.06);
 }
 
-/* Responsivo */
+/* -----------------------
+   RESPONSIVO
+------------------------*/
 @media (max-width: 820px) {
   .stats { flex-direction: column; }
-  .dashboard { margin-left: 0; }
-  .sidebar { width: 100%; height: auto; position: relative; }
+  .dashboard { margin-left: 0; padding-top: 140px; } /* Header fijo */
+  .sidebar { width: 100%; height: auto; position: relative; top: 0; }
 }
-

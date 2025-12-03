@@ -13,39 +13,17 @@
 
 <h:body>
 
-    <!-- HEADER IGUAL AL INDEX -->
-    <header class="header">   
-        <div class="container">
-            <div class="menu">
-
-                <!-- LOGO -->
-                <img class="logo" 
-                     src="#{resource['images/logo-deporte.png']}" 
-                     alt="Logo Deportes 360" />
-
-                <input type="checkbox" id="menu" />
-                <label for="menu">
-                    <img class="menu-icono" 
-                         src="#{resource['images/logo-deporte.png']}" 
-                         alt="Menú" />
-                </label>
-
-                <nav class="navbar">
-                    <ul>
-                        <li><a href="index.xhtml">Inicio</a></li>
-                        <li><a href="menu.xhtml">Catálogo</a></li>
-                        <li><a href="quienes.xhtml" class="activo">Quiénes somos</a></li>
-                        <li><a href="pedidos.xhtml">Mis Pedidos</a></li>
-                        <li><a href="login.xhtml">Cerrar Sesión</a></li>
-                    </ul>
-                </nav>
-
-            </div>
+    <footer class="footer container">
+        <div class="footer-content">
+            <a href="index.xhtml" class="logo">Deportes 360</a>
+            <ul>
+                <li><a href="index.xhtml">Inicio</a></li>
+                <li><a href="login.xhtml">Catálogo</a></li>
+                <li><a href="404.xhtml">Ayuda con tallas</a></li>
+            </ul>
         </div>
-    </header>
+    </footer>
 
-
-    <!-- CONTENIDO -->
     <main>
         <section class="quienes-somos container">
             <h2>Quiénes Somos</h2>
@@ -70,17 +48,7 @@
     </main>
 
 
-    <!-- FOOTER IGUAL AL INDEX -->
-    <footer class="footer container">
-        <div class="footer-content">
-            <a href="index.xhtml" class="logo">Deportes 360</a>
-            <ul>
-                <li><a href="index.xhtml">Inicio</a></li>
-                <li><a href="menu.xhtml">Catálogo</a></li>
-                <li><a href="404.xhtml">Ayuda con tallas</a></li>
-            </ul>
-        </div>
-    </footer>
+    
 
 </h:body>
 </html>

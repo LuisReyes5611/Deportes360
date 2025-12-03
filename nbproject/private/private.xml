@@ -3,19 +3,27 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/css/sugerencias.css</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/sugerencias.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/inventario.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/menu.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/usuario.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/css/productos.css</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/css/menu.css</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/errors/404.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos/producto-sudadera.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/.git/config</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/Bean/RegistroBean.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/Bean/UsuarioBean.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/Bean/LoginBean.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/modelo/Usuario.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/sinacceso.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/admin.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/crear-admin.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/detalle-pedido.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/inventario.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/pedidos.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/productos.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/Bean/AdminBean.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/login.xhtml</file>
             <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/registro.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/css/alerts.css</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/index.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/css/registro.css</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/images/Fondo.png</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos.xhtml</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/dao/Conexion.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/menu.xhtml</file>
         </group>
     </open-files>
 </project-private>

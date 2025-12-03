@@ -1,0 +1,2 @@
+beans.RegistroBean
+bean.RegistroBean
