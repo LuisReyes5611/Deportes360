@@ -3,18 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos/catalogo.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos/carrito.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos/nuevo.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos/admnistrar.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/productos/editar.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/admin.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/crear-repartidor.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/admin/crear-admin.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/resources/css/nuevo.css</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/web/login.xhtml</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/modelo/Producto.java</file>
-            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Deportes360/src/java/beans/ProductoBean.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Deportes360/src/java/beans/CarritoBean.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Deportes360/web/productos.xhtml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Deportes360/web/productos/producto-buzo.xhtml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Deportes360/web/productos/catalogo.xhtml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Deportes360/web/productos/carrito.xhtml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/Deportes360/src/java/beans/LoginBean.java</file>
         </group>
     </open-files>
 </project-private>

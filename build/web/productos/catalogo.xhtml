@@ -14,7 +14,8 @@
 
 <h:body>
     
-#{loginBean.verif_sesion('cliente')}
+<f:event type="preRenderView" listener="#{loginBean.verifSesionUsuario}" />
+
 
 <header class="header">
     <div class="container menu">
